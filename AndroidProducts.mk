@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_phoenix.mk
+    $(LOCAL_DIR)/cesium_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_phoenix-userdebug \
-    bliss_phoenix-eng
+    cesium_phoenix-userdebug \
+    cesium_phoenix-eng

@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "kernel_xiaomi_phoenix",
+    "target_path": "kernel/xiaomi/phoenix"
+  },
+  {
+    "repository": "vendor_xiaomi_phoenix",
+    "target_path": "vendor/xiaomi/phoenix"
+  }
+]
